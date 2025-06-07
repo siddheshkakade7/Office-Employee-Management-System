@@ -8,7 +8,7 @@ The **Office Employee Management System** is a web-based application built with 
 
 ## ✨ Key Features
 
-- 👨‍💼 Employee Profile Management  
+- 👨‍💼 Employee Profile Management 
 - 🏢 Department and Designation Assignment   
 - 💰 Payroll Structure  
 - 🔐 Admin Authentication & Secure Dashboard  
